@@ -3,8 +3,16 @@
 Your company has been hit by a ransomware infection! 
 
 An hour after your regular office hours start, you become aware of a spreading ransomware attack. 
-ß
-A new strain of ransomware infected vital systems (see company details for which systems this might be.)  
 
+A new strain of ransomware infected vital systems.
 
 How do you procceed?
+
+---
+Tailor to company:
+* AD
+* Backups
+* Website
+* Webshop
+* Customer Instances
+* ...

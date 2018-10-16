@@ -7,4 +7,4 @@ After some frantic calls, you realize that your data center seems to be down.
 ---
 What does this mean?
 * Web Sites are offline.
-* Knowledge managemnt systems are down.
+* Knowledge management systems are down.
