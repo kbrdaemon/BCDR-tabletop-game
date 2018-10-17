@@ -8,6 +8,6 @@ The companies are:
 * [NRG Supplier](./nrg.md)
 * [WDC](./wdc.md)
 
-The companies should be choosen, by the particiapants from their comany brief and their short description, like in the real world. 
+The companies should be chosen, by the participants from their company brief and their short description, like in the real world. 
 
-The rest of the information is only to be presented after the companies are choosen, and players are settling in before disaster strikes. 
+The rest of the information is only to be presented after the companies are chosen, and players are settling in before disaster strikes. 

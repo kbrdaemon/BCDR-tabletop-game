@@ -25,7 +25,7 @@
 ### Material
 
 * [Diaster Recovery Plans](bcdr.md)
-    * [eXtragon Inc.](companites/xgon/bcdr.md)
+    * [eXtragon Inc.](companies/xgon/bcdr.md)
     * [IT-Services Ltd.](companies/its/bcdr.md)
     * [MSFT LTD](companies/msf/bcdr.md)
     * [NRG Supplier](companies/nrg/bcdr.md)

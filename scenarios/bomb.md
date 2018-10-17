@@ -1,6 +1,6 @@
 # Bomb
 
-A police officer walks into your office and informs the first person whom the encounter:
+A police officer walks into your office and informs the first person whom he encounters:
 
 "We have to evacuate this office. on the constructions site on the opposite street, we found an unexploded World War 2 bomb. The bomb disposal squad is notified."
 

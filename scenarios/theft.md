@@ -9,3 +9,4 @@ How do you proceed?
 ---
 
 * 1D10*10% => 25% off your employee equipment has been stolen.
+* Only vital equipment was stolen. e.g. (Laptops, Mobile Phones, Server Hardware) depending on the company

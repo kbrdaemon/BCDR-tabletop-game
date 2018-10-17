@@ -1,10 +1,10 @@
 # Introduction
 
-This is a tabletop role playing game to teach the players about Business Continuity and Diaster Recovery. 
+This is a tabletop role playing game to teach the players about Business Continuity and Disaster Recovery. 
 
-The aim of it is, to show how in a stress situation it is hard to make decisions and resolve issues in a timely manner.
+The aim of it is, to show how hard it can be to make decisions in stressful situations and resolve issues in a timely manner.
 
-The average game duration should be about an 1h, depending on the length of the course. Afterwards the teams should present their outcome to the other participants in a informal spoken summary.
+The average game duration should be about one hour, depending on the length of the course. Afterwards the teams should present their outcome to the other participants in a informal spoken summary.
 
 
 ## Materials needed
